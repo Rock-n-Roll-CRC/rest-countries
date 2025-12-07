@@ -81,6 +81,7 @@ The second challenge I faced was to **make the page bookmarkable** to ensure use
 
 ```typescript
 const [searchParams, setSearchParams] = useSearchParams();
+
 const [searchedCountryName, setSearchedCountryName] = useState(
   searchParams.get("countryName") ?? "",
 );
