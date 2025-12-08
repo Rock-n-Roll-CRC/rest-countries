@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [What is REST Countries?](#what-is-no-bullyingorg)
+  - [What is REST Countries?](#what-is-rest-countries)
   - [Features](#features)
   - [Technology Stack](#technology-stack)
 - [Development Process](#development-process)
