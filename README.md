@@ -1,4 +1,4 @@
-# REST Countries ([View Live](https://rest-countries.app))
+# REST Countries: Where in the World? ([View Live](https://rest-countries.app))
 
 ![Homepage screenshot](./public/screenshot.png)
 
@@ -21,7 +21,7 @@
 
 REST Countries is a **comprehensive country database/explorer designed to help people get up-to-date country information through an interactive card-based interface**. The web application provides detailed country data, including population, regional information, languages, currencies, and neighboring countries, while making the search process much easier and faster by offering a search by name and filter by region functionality.
 
-This is a single-page web application built with TypeScript and React displaying the country data fetched from the REST Countries API using React Router data loaders. The web application incorporates modern and responsive UI with startup/upbeat design personality adopted to mobile, tablet and desktop screens built using SCSS Modules for granular component-first styling.
+This is a single-page web application built with TypeScript and React displaying the country data fetched from the REST Countries API using React Router data loaders. The web application incorporates modern and responsive UI with startup/upbeat design personality adapted to mobile, tablet and desktop screens built using SCSS Modules for granular component-first styling.
 
 ### Features
 
